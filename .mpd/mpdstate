@@ -1,0 +1,25 @@
+sw_volume: 84
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Childish Gambino - Awaken, My Love! (2016) [V0]/01. Me and Your Mama.mp3
+1:Childish Gambino - Awaken, My Love! (2016) [V0]/02. Have Some Love.mp3
+2:Childish Gambino - Awaken, My Love! (2016) [V0]/03. Boogieman.mp3
+3:Childish Gambino - Awaken, My Love! (2016) [V0]/04. Zombies.mp3
+4:Childish Gambino - Awaken, My Love! (2016) [V0]/05. Riot.mp3
+5:Childish Gambino - Awaken, My Love! (2016) [V0]/06. Redbone.mp3
+6:Childish Gambino - Awaken, My Love! (2016) [V0]/07. California.mp3
+7:Childish Gambino - Awaken, My Love! (2016) [V0]/08. Terrified.mp3
+8:Childish Gambino - Awaken, My Love! (2016) [V0]/09. Baby Boy.mp3
+9:Childish Gambino - Awaken, My Love! (2016) [V0]/10. The Night Me and Your Mama Met.mp3
+10:Childish Gambino - Awaken, My Love! (2016) [V0]/11. Stand Tall.mp3
+playlist_end
